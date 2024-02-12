@@ -14,12 +14,13 @@
 <!--<h5 style="color: #9b07f7;" dir="auto">Estudando no momento</h5>-->
 
 <div style="display: inline_block">
-  <h5 style="color: #9b07f7;" dir="auto">Estudando no momento</h5>
+  <h4 style="color: #9b07f7;" dir="auto">Estudando no momento</h4>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  <h5 style="color: #9b07f7;" dir="auto">Já tive contato</h5>
+  
+  <h4 style="color: #9b07f7;" dir="auto">Já tive contato</h4>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
