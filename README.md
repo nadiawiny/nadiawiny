@@ -1,5 +1,6 @@
 ### Olá, Eu sou Nádia Winy ✨
-🎓 - Acadêmica em Análise e Desenvolvimento de Sistemas - Faculdade Senac PE e Ciência dos Dados - UFMS<br>
+<h4>Systems Analyst and Developer 🎓 </h4>
+📚 - Acadêmica em Ciência dos Dados - UFMS<br>
 👩🏾‍💻 - Apaixonada e curiosa por esse vasto mundo da Tecnologia <br>
 📊 - Foco meus estudos em Data Analytics e Data Science <br>
 
